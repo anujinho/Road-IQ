@@ -1,0 +1,7 @@
+stock market + social network (twitter) indicators
+
+social networking website specific analysis - twitter hate speech, reddit analysis, youtube video 
+
+yahoo database - social graphs ... advertisement dataset
+
+Road Safety Data 2019 - UK - STATS19 (for encoding lookup table) + Vehicle + Casualty data - Road traffic data including vehicle type density + road type data
