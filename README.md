@@ -2,7 +2,7 @@
 
 > A hybrid ML + CNN + satellite imagery pipeline to predict road accident risk across urban road networks.
 
-![Road-IQ Ensemble Architecture](assets/road_iq_ensemble.png)
+![Road-IQ Ensemble Architecture](assets/image.png)
 <!-- Replace the path above with your actual image path, e.g. docs/img/ensemble_arch.png -->
 
 ---
